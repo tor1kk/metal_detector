@@ -1,0 +1,18 @@
+!SESSION 2024-08-05 22:07:26.211 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=uk_UA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-05 22:07:56.731
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-05 22:07:56.740
+!MESSAGE Log4j2 initialized with config file C:\Users\Viktor\Desktop\labaratorni\Projects\MetalDetector\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-05 22:08:05.922
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-05 22:10:45.693
+!MESSAGE Indexed 'software' (382 sources, 641 headers) in 23.8 sec: 62,657 declarations; 273,574 references; 7 unresolved inclusions; 160 syntax errors; 188 unresolved names (0.056%)

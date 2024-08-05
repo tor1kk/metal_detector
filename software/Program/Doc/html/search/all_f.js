@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['sens_5fchanged_5fcb_0',['sens_changed_cb',['../ui__callbacks_8h.html#a54b76b0f93417cb91fcde84dd9dc2f28',1,'sens_changed_cb(lv_event_t *e):&#160;ui_callbacks.c'],['../ui__callbacks_8c.html#a54b76b0f93417cb91fcde84dd9dc2f28',1,'sens_changed_cb(lv_event_t *e):&#160;ui_callbacks.c']]],
+  ['sensitivity_1',['sensitivity',['../struct_m_d___handle__t.html#a5952dae2b2e05470d33284d3ac3cf0ed',1,'MD_Handle_t']]],
+  ['sig_5fadcregister_5ft_2',['SIG_ADCRegister_t',['../struct_s_i_g___a_d_c_register__t.html',1,'']]],
+  ['sig_5ffreqdomain_5ft_3',['SIG_FreqDomain_t',['../struct_s_i_g___freq_domain__t.html',1,'']]],
+  ['sig_5fhandle_4',['sig_handle',['../app__signal_8h.html#a98caec86d718ff9d13350f5f6c0a04b1',1,'sig_handle:&#160;app_signal.c'],['../app__signal_8c.html#a98caec86d718ff9d13350f5f6c0a04b1',1,'sig_handle:&#160;app_signal.c']]],
+  ['sig_5fhandle_5ft_5',['SIG_Handle_t',['../struct_s_i_g___handle__t.html',1,'SIG_Handle_t'],['../app__signal_8h.html#a51895f09d4754a5efeffc9f86066cf55',1,'SIG_Handle_t:&#160;app_signal.h']]],
+  ['sig_5fload_5fsamples_6',['sig_load_samples',['../app__signal_8h.html#ab42d526d263f67bfdce169c702b759cf',1,'sig_load_samples(SIG_Handle_t *const handle, uint8_t flag):&#160;app_signal.c'],['../app__signal_8c.html#ab42d526d263f67bfdce169c702b759cf',1,'sig_load_samples(SIG_Handle_t *const handle, uint8_t flag):&#160;app_signal.c']]],
+  ['sig_5fperform_5ffft_7',['sig_perform_fft',['../app__signal_8h.html#abba4cc29432394b772c9011f913614f2',1,'sig_perform_fft(SIG_Handle_t *const handle):&#160;app_signal.c'],['../app__signal_8c.html#abba4cc29432394b772c9011f913614f2',1,'sig_perform_fft(SIG_Handle_t *const handle):&#160;app_signal.c']]],
+  ['sig_5fpolarform_5ft_8',['SIG_PolarForm_t',['../struct_s_i_g___polar_form__t.html',1,'']]],
+  ['sig_5fstart_9',['sig_start',['../app__signal_8h.html#a52c22b5e69919a0eb1cedb04095316af',1,'sig_start(SIG_Handle_t *const handle):&#160;app_signal.c'],['../app__signal_8c.html#a52c22b5e69919a0eb1cedb04095316af',1,'sig_start(SIG_Handle_t *const handle):&#160;app_signal.c']]],
+  ['signalprocessingtask_10',['SignalProcessingTask',['../app__tasks_8c.html#a278d7757ba50ce233e8a86b63d284ff6',1,'app_tasks.c']]],
+  ['signalsprocessing_20strong_11',['&lt;strong&gt;SignalsProcessing&lt;/strong&gt;',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md3',1,'']]],
+  ['state_12',['state',['../struct_x_p_t2046_handle__t.html#a70f85b64e580f335ead4b890eb33dc1c',1,'XPT2046Handle_t']]],
+  ['strong_13',['strong',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md2',1,'&lt;strong&gt;Display&lt;/strong&gt;'],['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md3',1,'&lt;strong&gt;SignalsProcessing&lt;/strong&gt;'],['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md4',1,'&lt;strong&gt;Tasks&lt;/strong&gt;'],['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md5',1,'&lt;strong&gt;UI&lt;/strong&gt;']]],
+  ['strong_20display_20strong_14',['&lt;strong&gt;Display&lt;/strong&gt;',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md2',1,'']]],
+  ['strong_20folder_20contains_3a_15',['&lt;strong&gt;Program&lt;/strong&gt; folder contains:',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md1',1,'']]],
+  ['strong_20program_20strong_20folder_20contains_3a_16',['&lt;strong&gt;Program&lt;/strong&gt; folder contains:',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md1',1,'']]],
+  ['strong_20signalsprocessing_20strong_17',['&lt;strong&gt;SignalsProcessing&lt;/strong&gt;',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md3',1,'']]],
+  ['strong_20tasks_20strong_18',['&lt;strong&gt;Tasks&lt;/strong&gt;',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md4',1,'']]],
+  ['strong_20ui_20strong_19',['&lt;strong&gt;UI&lt;/strong&gt;',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html#autotoc_md5',1,'']]],
+  ['structure_20',['Project Structure',['../md__c_1_2_users_2_viktor_2_desktop_2labaratorni_2_projects_2_metal___detector_2software_2_program_2_r_e_a_d_m_e.html',1,'']]]
+];
