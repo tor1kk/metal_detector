@@ -19,24 +19,14 @@ During the project, significant difficulties were encountered. When connecting t
 
 ### Software
 - **Code**: The code related to this project is located in the `Program` folder.
-- **Documentation**: The code is commented, and Doxygen documentation was generated. [View Doxygen Documentation](software/Program/Doc/html/index.html)
+- **Documentation**: The code is commented, and Doxygen documentation was generated. <a href="software/Program/Doc/html/index.html" target="_blank">View Doxygen Documentation</a>
 
 ## Test Videos
 ### Working Test
-A video demonstration of the working test can be found below:
-
-<video width="600" controls>
-  <source src="media/test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+A video demonstration of the working test can be found below: [View Test Video](media/test.mp4)
 
 ### Signal Distortion
-A video showing the signal distortion when the coil is connected can be found below:
-
-<video width="600" controls>
-  <source src="media/signal_distortion.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+A video showing the signal distortion when the coil is connected can be found below:[View Signal Distortion Video](media/signal_distortion.mp4)
 
 ## Images
 ### PCB Photo
