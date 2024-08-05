@@ -19,7 +19,7 @@ During the project, significant difficulties were encountered. When connecting t
 
 ### Software
 - **Code**: The code related to this project is located in the `Program` folder.
-- **Documentation**: The code is commented, and Doxygen documentation was generated. <a href="software/Program/Doc/html/index.html" target="_blank">View Doxygen Documentation</a>
+- **Documentation**: The code is commented, and Doxygen documentation was generated. [View Doxygen Documentation](https://tor1kk.github.io/metal_detector/software/Program/Doc/html/index.html)
 
 ## Test Videos
 ### Working Test
