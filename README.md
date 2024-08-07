@@ -1,4 +1,4 @@
-# STM32 Based VLF Metal Detector Experiment
+# STM32 Based VLF Metal Detector Experiment(Ongoing)
 
 ## Introduction
 The goal of this project is to develop a custom board with an STM32 microcontroller and utilize an existing commercial search coil. The working principle is as follows: a sinusoidal signal of a specific frequency is generated on the transmitting coil. The search coil is balanced so that in the absence of metal under it, the amplitude of the sinusoid on the receiving coil is minimal. If metal appears under the coil, the amplitude of the sinusoid on the receiving coil increases. The closer the metal or the larger the metal, the greater the amplitude. Additionally, it is possible to differentiate between metals by calculating the phase shift of the sinusoid on the receiving coil relative to the transmitting coil. This requires simultaneous reading of signals from both the transmitting and receiving coils, achieved using ADC dual regular simultaneous mode.
